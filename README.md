@@ -282,8 +282,6 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-Add screenshots here:
-
 ### Home Page
 
 ![Home](screenshots/home.png)
